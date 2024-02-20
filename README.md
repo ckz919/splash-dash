@@ -1,7 +1,7 @@
 # TD Webdesign S1
-Réalisation du site statique "Splash &amp; Dash".
+Source code of our static website project "Splash &amp; Dash".
 
-## Auteurs :
+## Autors :
 - LAWNICZAK Maxence
 - MAIRESSE Romain
 - KOLODZIEJSKI Carl
