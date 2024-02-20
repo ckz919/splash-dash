@@ -1,5 +1,5 @@
 # TD Webdesign S1
-Réalisation du site statique "Splash &amp; Dash".\
+Réalisation du site statique "Splash &amp; Dash".
 
 ## Auteurs :
 - LAWNICZAK Maxence
